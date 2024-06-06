@@ -1,0 +1,68 @@
+{
+    "cargaisons": [
+        {
+            "id": "1",
+            "reference": "ID00001",
+            "maxWeight": "12",
+            "maxNbrProduct": "null",
+            "totalAmount": "0",
+            "distance": "5834.62",
+            "departurePoint": "Mauritanie",
+            "arrivalPoint": "Arabie saoudite",
+            "leavingDate": "2024-06-08",
+            "arrivedDate": "2024-06-09",
+            "type": "AIR",
+            "globalState": "OPEN",
+            "progressionState": "PENDING",
+            "image": "https:\/\/img.freepik.com\/photos-gratuite\/vue-avion-3d_23-2151022233.jpg?t=st=1717687681~exp=1717691281~hmac=df32197b75f21b09e5898bc2575756cdda7aefd6f1f98547dc6e6ddc073e9cfb&w=900"
+        },
+        {
+            "id": "2",
+            "reference": "ID00002",
+            "maxWeight": "12",
+            "maxNbrProduct": "null",
+            "totalAmount": "0",
+            "distance": "11401.39",
+            "departurePoint": "\u00c9tats-Unis d'Am\u00e9rique",
+            "arrivalPoint": "Mongolie",
+            "leavingDate": "2024-06-16",
+            "arrivedDate": "2024-06-17",
+            "type": "MARITIME",
+            "globalState": "OPEN",
+            "progressionState": "PENDING",
+            "image": "https:\/\/img.freepik.com\/photos-gratuite\/icone-voyage-3d-bateau_23-2151037325.jpg?t=st=1717687515~exp=1717691115~hmac=552f4045c94f263c61025520c64fb8695603ab53d4f94e68ccf99418b42b08b6&w=360"
+        },
+        {
+            "id": "3",
+            "reference": "ID00003",
+            "maxWeight": "null",
+            "maxNbrProduct": "45",
+            "totalAmount": "0",
+            "distance": "14364.60",
+            "departurePoint": "Colombie",
+            "arrivalPoint": "Mongolie",
+            "leavingDate": "2024-06-07",
+            "arrivedDate": "2024-06-08",
+            "type": "ROAD",
+            "globalState": "OPEN",
+            "progressionState": "PENDING",
+            "image": "https:\/\/img.freepik.com\/photos-premium\/illustration-conception-camion-minimaliste_7023-270197.jpg?w=740"
+        },
+        {
+            "id": "4",
+            "reference": "ID11114",
+            "maxWeight": "15",
+            "maxNbrProduct": "null",
+            "totalAmount": "0",
+            "distance": "1229.56",
+            "departurePoint": "Nig\u00e9ria",
+            "arrivalPoint": "R\u00e9publique centrafricaine",
+            "leavingDate": "2024-06-10",
+            "arrivedDate": "2024-06-11",
+            "type": "AIR",
+            "globalState": "OPEN",
+            "progressionState": "PENDING",
+            "image": "https:\/\/img.freepik.com\/photos-gratuite\/vue-avion-3d_23-2151022233.jpg?t=st=1717687681~exp=1717691281~hmac=df32197b75f21b09e5898bc2575756cdda7aefd6f1f98547dc6e6ddc073e9cfb&w=900"
+        }
+    ]
+}
